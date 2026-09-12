@@ -3,13 +3,13 @@ title: Notations
 group: right
 year: '2026'
 medium: Drawing exercise
-summary: Marks for something heard, rather than seen. No key, and no correct way to read them.
+summary: Marks for something heard, not seen.
 cover: /images/notations.svg
-coverAlt: Five horizontal lines with irregular ticks and three dots on a muted yellow field.
+coverAlt: Typographic cover with the title Notations in gray text on a pale background.
 order: 1
 gallery:
   - src: /images/interval.svg
-    alt: Six vertical bars with an interval in the middle.
+    alt: Typographic cover with the title Interval in gray text on a pale background.
     caption: Another way of counting the spaces.
 ---
 I wanted to write down a rhythm without using musical notation. These marks are more like reminders than instructions.

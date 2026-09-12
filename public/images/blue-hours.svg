@@ -1,8 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
-  <title>Blue hours — original geometric sample</title>
-  <rect width="1200" height="900" fill="#222c4b"/>
-  <rect x="160" y="160" width="880" height="580" fill="#647c9b"/>
-  <rect x="160" y="530" width="880" height="210" fill="#3c536e"/>
-  <path d="M450 160V740M750 160V740" stroke="#222c4b" stroke-width="20"/>
-  <path d="M160 410H1040" stroke="#222c4b" stroke-width="20"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <title>Blue hours typographic cover</title>
+  <rect width="1600" height="1200" fill="#f5f2ea"/>
+  <rect x="88" y="88" width="1424" height="1024" fill="none" stroke="rgb(170,170,170)" stroke-width="2" opacity="0.35"/>
+  <line x1="88" y1="430" x2="1512" y2="430" stroke="rgb(170,170,170)" stroke-width="2" opacity="0.2"/>
+  <text x="140" y="248" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700" letter-spacing="0.02em">Blue hours</text>
+  <text x="142" y="376" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="0.18em">Window study</text>
+  <text x="140" y="988" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="0.12em">
+    <tspan x="140" dy="0">The same view, held a little longer.</tspan>
+    <tspan x="140" dy="62">An exercise in noticing very little.</tspan>
+  </text>
 </svg>

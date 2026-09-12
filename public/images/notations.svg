@@ -1,6 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
-  <title>Notations — original geometric sample</title>
-  <rect width="1200" height="900" fill="#e6e596"/>
-  <g fill="none" stroke="#343c2b" stroke-width="3"><path d="M100 160H1100M100 310H1100M100 460H1100M100 610H1100M100 760H1100"/><path d="M160 140V180M320 140V180M720 140V180M1030 140V180M240 290V330M480 290V330M560 290V330M880 290V330M160 440V480M640 440V480M960 440V480M320 590V630M400 590V630M720 590V630M1040 590V630M240 740V780M560 740V780M800 740V780"/></g>
-  <g fill="#343c2b"><circle cx="480" cy="310" r="12"/><circle cx="960" cy="460" r="12"/><circle cx="400" cy="610" r="12"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <title>Notations typographic cover</title>
+  <rect width="1600" height="1200" fill="#f6f2e4"/>
+  <rect x="88" y="88" width="1424" height="1024" fill="none" stroke="rgb(170,170,170)" stroke-width="2" opacity="0.35"/>
+  <line x1="88" y1="432" x2="1512" y2="432" stroke="rgb(170,170,170)" stroke-width="2" opacity="0.2"/>
+  <text x="140" y="250" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700" letter-spacing="0.02em">Notations</text>
+  <text x="142" y="378" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="0.18em">Drawing exercise</text>
+  <text x="140" y="984" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="0.12em">
+    <tspan x="140" dy="0">Marks for something heard, not seen.</tspan>
+    <tspan x="140" dy="62">No key, and no correct way to read them.</tspan>
+  </text>
 </svg>

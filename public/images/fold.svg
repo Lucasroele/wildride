@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
-  <title>Fold — original geometric sample</title>
-  <rect width="1200" height="900" fill="#dddcd7"/>
-  <path d="M240 100H840L970 800H370Z" fill="#f7f6f0"/>
-  <path d="M240 100L580 370L370 800Z" fill="#e8e6dc"/>
-  <path d="M840 100L580 370L970 800Z" fill="#c5c2b8"/>
-  <path d="M580 370L690 800H370Z" fill="#fffef6"/>
-  <path d="M240 100L580 370L970 800" stroke="#aaa79d" stroke-width="1" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <title>Fold typographic cover</title>
+  <rect width="1600" height="1200" fill="#f5f1e8"/>
+  <rect x="88" y="88" width="1424" height="1024" fill="none" stroke="rgb(170,170,170)" stroke-width="2" opacity="0.35"/>
+  <line x1="88" y1="456" x2="1512" y2="456" stroke="rgb(170,170,170)" stroke-width="2" opacity="0.2"/>
+  <text x="140" y="252" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700" letter-spacing="0.02em">Fold</text>
+  <text x="142" y="378" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="0.18em">Paper study</text>
+  <text x="140" y="988" fill="rgb(170,170,170)" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="0.12em">
+    <tspan x="140" dy="0">One sheet, three folds.</tspan>
+    <tspan x="140" dy="62">A small exercise in making space.</tspan>
+  </text>
 </svg>
