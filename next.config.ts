@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
-const basePath = process.env.NEXT_BASE_PATH ?? "";
+// GitHub Pages project sites use a repository subpath, e.g. /wildride.
+const basePath = process.env.NEXT_BASE_PATH ?? "/wildride";
 
 const nextConfig: NextConfig = {
   output: "export",
